@@ -1,0 +1,105 @@
+.red{
+    background-color: red;
+}
+
+
+.blue{
+    background-color: blue;
+}
+
+body{
+    transition: 1s;
+}
+
+/* .close{
+    display: none;
+}
+
+.open{
+    display: block;
+} */
+
+
+
+.btn{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+}
+.btn2{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+}
+
+.btn3{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+    
+}
+
+.btn4{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+    
+}
+
+.btn5{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+    
+}
+
+.btn6{
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+
+
+
+
+
+.anim{
+    animation: anim1 infinite linear 1s;
+}
+
+@keyframes anim1 {
+    0%{
+        rotate: 0deg;
+    }
+
+    100%{
+        rotate: 360deg;
+    }
+}
+
+.img2{
+    display: none;
+}
+
+.img1{
+    display: block;
+}
+
+
+.close2{
+    display: none;
+}
+
+.open2{
+    display: block;
+}
